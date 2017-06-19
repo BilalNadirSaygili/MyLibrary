@@ -7,5 +7,5 @@ bunlar ise Kaydet ve Listeledir   Edittextlere girilen deðerler Kaydet denildiði
  bilgiler listelenir.
 
 
------> 3 Adet Sýnýfýmýz vardýr  bunlar MainActivity , DataBase Ve Book sýnýflarýmýz. Bunlarý app\src\main\java\bns237  dizinininde mylibrary klasörü içinde bulabilirsiniz .
+-----> 4 Adet Sýnýfýmýz vardýr  bunlar MainActivity , DataBase , Book ve List sýnýflarýmýz. Bunlarý app\src\main\java\bns237  dizinininde mylibrary klasörü içinde bulabilirsiniz .
 
