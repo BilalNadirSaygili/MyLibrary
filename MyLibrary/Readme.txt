@@ -9,3 +9,4 @@ bunlar ise Kaydet ve Listeledir   Edittextlere girilen deðerler Kaydet denildiði
 
 -----> 4 Adet Sýnýfýmýz vardýr  bunlar MainActivity , DataBase , Book ve List sýnýflarýmýz. Bunlarý app\src\main\java\bns237  dizinininde mylibrary klasörü içinde bulabilirsiniz .
 
+-----> Uygulamamýzýn Ekran Görüntülerine  "Ekran Görüntüleri"  klasöründen ulaþabilirsiniz .
