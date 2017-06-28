@@ -1,12 +1,17 @@
-----> MyLibrary uygulamamýz ,   Mvc tasarým deseninin ve Sqllite veritabanýnýn kullanýldýðý basit bir kütüphane uygulamasýdýr.
+--------MyLibrary----------------------------- 
 
----->Uygulamazýn Anaekranýnda 3 adat EditText bulunur bunlar sýrasýyla  Kitap ismini , Yazar ismini ve Yayýnevini kullanýcýdan ister . Daha sonra 2 tane buton bulunur
-  
-bunlar ise Kaydet ve Listeledir   Edittextlere girilen deðerler Kaydet denildiði zaman veritabanýna kaydolur daha sonra Listele dediðimiz zaman Veritabanýndan 
+---->Eklenmek istenilen kitabýn ismi , yazar ismi ve yayýnevi girilir "Kaydet" butonuna
 
- bilgiler listelenir.
+basýlarak veritabanýna kaydedilir.
 
+----> "Listele" butonuna basýlarak veritabanýna kaydedilen kitaplar listelenir.
 
------> 4 Adet Sýnýfýmýz vardýr  bunlar MainActivity , DataBase , Book ve List sýnýflarýmýz. Bunlarý app\src\main\java\bns237  dizinininde mylibrary klasörü içinde bulabilirsiniz .
 
 -----> Uygulamamýzýn Ekran Görüntülerine  "Ekran Görüntüleri"  klasöründen ulaþabilirsiniz .
+
+----->Android Tablet ya da telefonunuza yüklemek için  ---> https://drive.google.com/open?id=0B_eXBzlQ0wOtWThMampQWTNQeEU  <---  bu linkten 
+
+apk dosyasýný indirebilirsiniz . 
+
+
+----Kullanýlan Teknolojiler :  Mvc tasarým deseni , SqlLite Veritabaný , Java , Android Studio 
