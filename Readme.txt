@@ -9,7 +9,7 @@ basýlarak veritabanýna kaydedilir.
 
 -----> Uygulamamýzýn Ekran Görüntülerine  "Ekran Görüntüleri"  klasöründen ulaþabilirsiniz .
 
------>Android Tablet ya da telefonunuza yüklemek için  ---> https://drive.google.com/open?id=0B_eXBzlQ0wOtWThMampQWTNQeEU  <---  bu linkten 
+----->Android Tablet ya da telefonunuza yüklemek için  ---> https://drive.google.com/open?id=0B_eXBzlQ0wOtMGM0OWs1Z2xjanM  <---  bu linkten 
 
 apk dosyasýný indirebilirsiniz . 
 
